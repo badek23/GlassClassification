@@ -1,4 +1,4 @@
-# GlassClassification
+# Glass Type Classification
 
 ### About this project
 The purpose of this Kaggle project is to train a model that predicts the type of glass given data about its composition. I wanted to learn PyCaret for this project.
